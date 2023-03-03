@@ -16,4 +16,4 @@ Works with spaces in file names!
 
 Known issues:
 
-Not a big deal, but if you remove all files from a directory on a remote FTP directory, the folder will remain. Working on a fix. 2-26-23
+Not a big deal, but if you remove all files from a folder on a remote FTP directory, the folder will remain. Working on a fix. 2-26-23
